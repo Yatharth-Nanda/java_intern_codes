@@ -1,0 +1,5 @@
+
+DB_DRIVERCLASS=com.mysql.cj.jdbc.Driver
+DB_URL=jdbc:mysql://localhost:3306/payments
+DB_USERNAME=root
+DB_PASSWORD=root
